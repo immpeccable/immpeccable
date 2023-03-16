@@ -10,7 +10,13 @@
 </div>
 
 ## 👨‍💻 About Me
-I'm a computer engineering student with a passion for software development and a focus on frontend and backend development. I have a 3.64 GPA and have gained experience in various tools including React, Git, and Node.js. I'm constantly seeking new challenges and opportunities to grow my skills as a developer.
+
+Hey there, I'm Your Name, a computer engineering student with a passion for building cool things with code. I'm a full-stack developer with a focus on frontend and backend development, and a love for exploring the latest technologies and tools. 
+
+With a strong GPA of 3.64, I've gained hands-on experience in a variety of tech stacks including React, Git, Node.js, Data Structures, Algorithms, and C++. 
+
+As a perpetual learner, I'm always seeking out new challenges and opportunities to grow my skills as a developer. If you're looking for a dedicated and enthusiastic teammate for your next project, feel free to get in touch!
+
 
 ## 🚀 My Projects
 
