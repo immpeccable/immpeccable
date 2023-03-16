@@ -13,9 +13,11 @@
 I'm a computer engineering student with a passion for software development and a focus on frontend and backend development. I have a 3.64 GPA and have gained experience in various tools including React, Git, and Node.js. I'm constantly seeking new challenges and opportunities to grow my skills as a developer.
 
 ## 🚀 My Projects
-- [SolAuth](https://www.solauth.xyz/): Co-founder of a startup that provides secure and decentralized authentication services using blockchain technology.
-- [World Cup Predictor](https://www.worldcup-predict.com/): A web application that allows users to predict the outcomes of World Cup matches and compete with others for prizes. Built with React, Node.js, and PostgreSQL.
-- [QRCode Lemon](https://www.qrcode-lemon.com/): A simple web application that generates QR codes for URLs. Built with React and Node.js.
+
+- [SolAuth](https://www.solauth.xyz/) - A secure and user-friendly authentication platform
+- [World Cup Predict](https://www.worldcup-predict.com/) - A website for predicting World Cup match results with friends
+- [QRCode Lemon](https://qrcode-lemon.com/) - A tool for creating and customizing QR codes
+- [Swarm Intelligence](https://github.com/immpeccable/Coverage-Path-Planning) - Implementation of swarm intelligence algorithm for multi-drone coordination
 
 ## 🛠️ Skills and Technologies
 - 💻 JavaScript, HTML, CSS
@@ -25,7 +27,7 @@ I'm a computer engineering student with a passion for software development and a
 - 🐝 Swarm Intelligence
 
 ## 📫 Contact Me
-You can find me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or [Twitter](https://twitter.com/your-twitter-profile/). You can also check out my personal website at [your-website.com](https://www.your-website.com). Let's connect and talk about software development!
+You can find me on [LinkedIn](https://www.linkedin.com/in/tunahan-dundar/) or [Twitter](https://twitter.com/thlikelymdiorum/). You can also check out my personal website at [your-website.com](https://tunahan-dundar.netlify.app/). Let's connect and talk about software development!
 
 <!--
 **immpeccable/immpeccable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
