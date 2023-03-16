@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Your Name 👋</h1>
+  <h1>Hi there, I'm Tunahan 👋</h1>
   <h3>Computer Engineering Student | Full-Stack Developer | Co-Founder</h3>
   <br>
   <a href="https://www.solauth.xyz/"><img src="https://img.shields.io/badge/SolAuth-Blockchain%20Authentication-orange"></a>
