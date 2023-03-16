@@ -33,7 +33,7 @@ As a perpetual learner, I'm always seeking out new challenges and opportunities 
 - 🐝 Swarm Intelligence
 
 ## 📫 Contact Me
-You can find me on [LinkedIn](https://www.linkedin.com/in/tunahan-dundar/) or [Twitter](https://twitter.com/thlikelymdiorum/). You can also check out my personal website at [personal website](https://tunahan-dundar.netlify.app/). Let's connect and talk about software development!
+You can find me on [LinkedIn](https://www.linkedin.com/in/tunahan-dundar/) or [Twitter](https://twitter.com/thlikelymdiorum/). You can also check out my personal website at [here](https://tunahan-dundar.netlify.app/). Let's connect and talk about software development!
 
 <!--
 **immpeccable/immpeccable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
