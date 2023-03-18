@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-Hey there, I'm Your Name, a computer engineering student with a passion for building cool things with code. I'm a full-stack developer with a focus on frontend and backend development, and a love for exploring the latest technologies and tools. 
+Hey there, I'm Tunahan, a computer engineering student with a passion for building cool things with code. I'm a full-stack developer with a focus on frontend and backend development, and a love for exploring the latest technologies and tools. 
 
 With a strong GPA of 3.64, I've gained hands-on experience in a variety of tech stacks including React, Git, Node.js, Data Structures, Algorithms, and C++. 
 
