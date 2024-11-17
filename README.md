@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Tunahan 👋</h1>
-  <h3>Computer Engineering Student | Full-Stack Developer | Co-Founder</h3>
+  <h3>Software Engineer</h3>
   <br>
   <a href="https://www.solauth.xyz/"><img src="https://img.shields.io/badge/SolAuth-Blockchain%20Authentication-orange"></a>
   <a href="https://www.worldcup-predict.com/"><img src="https://img.shields.io/badge/World%20Cup%20Predictor-Predict%20matches-blue"></a>
@@ -11,17 +11,17 @@
 
 ## 👨‍💻 About Me
 
-Hey there, I'm Tunahan, a computer engineering student with a passion for building cool things with code. I'm a full-stack developer with a focus on frontend and backend development, and a love for exploring the latest technologies and tools. 
+Hey there, I'm Tunahan, a software engineer with a passion for building impactful solutions using modern technologies. With 1.5 years of professional experience at OnePIN, I specialize in frontend development and cloud technologies, particularly AWS.
 
-With a strong GPA of 3.64, I've gained hands-on experience in a variety of tech stacks including React, Git, Node.js, Data Structures, Algorithms, and C++. 
+During my academic journey as a computer engineering student, I maintained a strong GPA of 3.64 and gained hands-on experience in diverse tech stacks, which I continue to leverage in my professional projects. I thrive on exploring innovative tools and frameworks, delivering high-quality, user-centric solutions.
 
-As a perpetual learner, I'm always seeking out new challenges and opportunities to grow my skills as a developer. If you're looking for a dedicated and enthusiastic teammate for your next project, feel free to get in touch!
+Let's connect and collaborate on exciting projects!
 
 
 ## 🚀 My Projects
 
 - [SolAuth](https://www.solauth.xyz/) - A secure and user-friendly authentication platform
-- [World Cup Predict](https://www.worldcup-predict.com/) - A website for predicting World Cup match results with friends
+- [Predictorium](https://www.predictorium.com/) - A platform for predicting tournaments, sharing predictions with friends, and engaging with other sports enthusiasts
 - [QRCode Lemon](https://qrcode-lemon.com/) - A tool for creating and customizing QR codes
 - [Swarm Intelligence](https://github.com/immpeccable/Coverage-Path-Planning) - Implementation of swarm intelligence algorithm for multi-drone coordination
 
@@ -33,7 +33,7 @@ As a perpetual learner, I'm always seeking out new challenges and opportunities 
 - 🐝 Swarm Intelligence
 
 ## 📫 Contact Me
-You can find me on [LinkedIn](https://www.linkedin.com/in/tunahan-dundar/) or [Twitter](https://twitter.com/thlikelymdiorum/). You can also check out my personal website at [here](https://tunahan-dundar.netlify.app/). Let's connect and talk about software development!
+You can find me on [LinkedIn](https://www.linkedin.com/in/tunahan-dundar/). You can also check out my personal website at [here](https://tunahan-dundar.netlify.app/). Let's connect and talk about software development!
 
 <!--
 **immpeccable/immpeccable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
