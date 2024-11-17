@@ -3,7 +3,7 @@
   <h3>Software Engineer</h3>
   <br>
   <a href="https://www.solauth.xyz/"><img src="https://img.shields.io/badge/SolAuth-Blockchain%20Authentication-orange"></a>
-  <a href="https://www.worldcup-predict.com/"><img src="https://img.shields.io/badge/World%20Cup%20Predictor-Predict%20matches-blue"></a>
+  <a href="https://www.predictorium.com/"><img src="https://img.shields.io/badge/World%20Cup%20Predictor-Predict%20matches-blue"></a>
   <a href="https://www.qrcode-lemon.com/"><img src="https://img.shields.io/badge/QRCode%20Lemon-Generate%20QR%20codes-green"></a>
   <br>
   <br>
