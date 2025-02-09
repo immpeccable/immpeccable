@@ -20,7 +20,7 @@ Let's connect and collaborate on exciting projects!
 
 ## 🚀 My Projects
 
-- [SolAuth](https://www.solauth.vercel.app/) - A secure and user-friendly authentication platform
+- [SolAuth](https://solauth.vercel.app) - A secure and user-friendly authentication platform
 - [Predictorium](https://www.predictorium.com/) - A platform for predicting tournaments, sharing predictions with friends, and engaging with other sports enthusiasts
 - [QRCode Lemon](https://qrcode-lemon.com/) - A tool for creating and customizing QR codes
 - [Swarm Intelligence](https://github.com/immpeccable/Coverage-Path-Planning) - Implementation of swarm intelligence algorithm for multi-drone coordination
